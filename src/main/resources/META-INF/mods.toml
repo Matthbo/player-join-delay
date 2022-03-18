@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License v3.0"
+# A URL to refer people to when problems occur with this mod
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+
+[[mods]]
+modId="joindelay"
+version="${file.jarVersion}"
+displayName="Player Join Delay"
+# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+# A URL for the "homepage" for this mod, displayed in the mod UI
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+# A file name (in the root of the mod JAR) containing a logo for display
+# logoFile="examplemod.png" #optional
+# A text field displayed in the mod UI
+# credits="Thanks for this example mod goes to Java" #optional
+# A text field displayed in the mod UI
+authors="Matthbo" #optional
+description='''
+Delays the player from spawning into the world until the player can interactact with the game.
+'''
