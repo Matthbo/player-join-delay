@@ -19,5 +19,5 @@ displayName="Player Join Delay"
 # A text field displayed in the mod UI
 authors="Matthbo" #optional
 description='''
-Delays the player from spawning into the world until the player can interactact with the game.
+Delays the player from spawning into the world until the player can interact with the game.
 '''
